@@ -1,0 +1,11 @@
+{
+  "name": "eslint-plugin-test-id-custom",
+  "version": "1.0.0",
+  "main": "dist/index.js",
+  "scripts": {
+    "compile": "tsup index.ts --no-splitting --minify"
+  },
+  "devDependencies": {
+    "tsup": "^5.5.0"
+  }
+}
